@@ -1,0 +1,36 @@
+# langchain==0.2.10
+# langchain-openai==0.1.17
+# python-dotenv==1.0.1
+# langchain-groq==0.1.6
+
+
+
+langchain==0.3.13
+langchain-core==0.3.28
+langchain-community==0.3.13
+langchain-openai==0.2.14
+
+
+
+# langchain==0.2.10
+# langchain-core==0.2.43
+# langchain-community==0.2.10
+# langchain-openai==0.1.17
+
+
+
+
+
+# pip install langchain==0.2.10
+# pip install langchain-core==0.2.43
+# pip install langchain-community==0.2.10
+# pip install langchain-openai==0.1.17
+
+
+# pip show langchain
+# pip show langchain-core
+# pip show langchain-community
+# pip show langchain-openai
+
+
+#pip install unstructured==0.15.0
