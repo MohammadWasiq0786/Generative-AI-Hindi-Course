@@ -1,0 +1,14 @@
+langchain==0.2.10
+langchain-openai==0.1.17
+python-dotenv==1.0.1
+langchain-community==0.2.10
+bs4==0.0.2
+unstructured==0.15.0
+pypdf==4.3.1
+wikipedia==1.4.0
+langchain-chroma==0.1.2
+pydantic==2.8.2
+lxml==5.3.0
+tiktoken==0.7.0
+pytesseract==0.3.13
+openai==1.42.0
